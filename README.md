@@ -1,3 +1,12 @@
+# Project Members
+## RA2512051010008 - THARUN KUMAR M D
+## RA2512052010031 - NANDHAKUMAR K P
+## RA2512052010032 - MUKESH P R
+## RA2512052010064 - SRIVATHSAN K
+## RA2512052010017 - RAJESH S
+## RA2512052010044 - Aluwala Vivek Reddy
+
+
 # 🛒 SpadeX — E-Commerce Big Data Solution
 
 > A full-stack cloud data engineering project that solves four critical industrial problems faced by modern e-commerce organizations — built with PySpark, Kafka, Hadoop, and real-time streaming on a cloud-native architecture.
